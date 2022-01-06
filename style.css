@@ -27,3 +27,8 @@ h1{
     color: white;
     border-radius: 5px;
 }
+.the-end{
+    background-image: linear-gradient(rgb(123, 123, 238), rgb(230, 119, 100));
+    background-color: tomato;
+    text-align: center;
+}
