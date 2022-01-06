@@ -1,0 +1,29 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+.tomato-color{
+    color: tomato;
+}
+.felxible-container{
+    display: flex;
+    margin-bottom: 80px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+.half-width img{
+    width: 70%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(blue, orange);
+    background-color: tomato;
+    padding: 8px 30px;
+    font-weight: 700;
+    color: white;
+    border-radius: 5px;
+}
