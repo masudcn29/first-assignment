@@ -40,3 +40,15 @@ section{
 .white-color{
     color: white;
 }
+.my-mission{
+    text-align: center;
+}
+.light-background{
+    background-color: rgb(206, 206, 250);
+}
+.tomato-background{
+    background-color: rgb(248, 221, 217);
+}
+.green-background{
+    background-color: rgb(230, 248, 202);
+}
