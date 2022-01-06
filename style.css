@@ -17,6 +17,7 @@ section{
 }
 .half-width{
     width: 50%;
+    border-radius: 10px;
     padding-left: 5%;
     padding-right: 5%;
 }
