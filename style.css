@@ -52,3 +52,15 @@ section{
 .green-background{
     background-color: rgb(230, 248, 202);
 }
+.develop-limits{
+    background-image: url(images/background2.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+.global-community{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: right;
+}
