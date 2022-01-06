@@ -45,12 +45,18 @@ section{
 }
 .light-background{
     background-color: rgb(206, 206, 250);
+    margin-left: 10px;
+    margin-right: 10px;
 }
 .tomato-background{
     background-color: rgb(248, 221, 217);
+    margin-left: 10px;
+    margin-right: 10px;
 }
 .green-background{
     background-color: rgb(230, 248, 202);
+    margin-left: 10px;
+    margin-right: 10px;
 }
 .develop-limits{
     background-image: url(images/background2.png);
